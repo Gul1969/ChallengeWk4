@@ -6,13 +6,13 @@
 
 - The challenge was to automate Ansible to install Docker on the local machine. In this case we were given instructions on how Docker is normally installed as we have only used an installation wizard in the past. The normal method of docker installation involves several steps that include:
 
-      *apt-transport-https installation
-      *ca-certificates
-      *curl
-      *software-properties-common
-      *addition of the Docker apt key
-      *addition of a docker apt repository
-      *installation of docker-ce through apt
+      * apt-transport-https installation
+      * ca-certificates
+      * curl
+      * software-properties-common
+      * addition of the Docker apt key
+      * addition of a docker apt repository
+      * installation of docker-ce through apt
 
 ### How I expected the challenge to go. 
 
